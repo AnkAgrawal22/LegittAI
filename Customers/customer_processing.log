@@ -1,0 +1,5 @@
+2024-12-27 11:44:52,807 - ERROR - MONGO_URI not found in environment variables.
+2024-12-27 11:45:40,325 - INFO - Apply coverage ratio: False
+2024-12-27 11:45:40,561 - INFO - Connected to MongoDB successfully.
+2024-12-27 11:46:25,067 - INFO - Number of invoices fetched: 42395
+2024-12-27 11:46:25,069 - INFO - Number of contracts fetched: 7652
